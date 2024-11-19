@@ -1,0 +1,1 @@
+https://api.aigaea.net/api/validate/token?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiIxMDcwMzkzNzEwMDM3MyIsInVzZXJuYW1lIjoiZG1pY2hlYWwiLCJzZWNyZXQiOiJmYWFlNTEzOSJ9.heQc4ox-Xj9B_6LaeofTbHQHEKaTgdJlr_-Zcrzi6Kc
